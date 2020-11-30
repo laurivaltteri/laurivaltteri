@@ -33,14 +33,18 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
 
 ----------
+
 <details>
-  <summary>:zap: 🎯 Skills</summary>
+  <summary>## 🎯 Skills</summary>
 
 R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, Data Fusion, Feature Extraction, Bayesian Analysis, Classification Techniques, Graph-theory, Signal Processing, Computational Neuroscience, Health Technology, IoT, Academic Communications, Presenting, Teaching, Project Management, AI, Cognitive Psychology
 
 </details>
+
 ----------
-## 🎓 Education
+
+<details>
+  <summary>## 🎓 Education</summary>
 
 - Doctor of Philosophy
   - University of Helsinki
@@ -51,9 +55,12 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
   - Major: **Cognitive technology**
   - Thesis: [a Computational Approach to Estimation of Crowding in Natural Images](http://viXra.org/abs/1802.0066)
 
+</details>
+
 ----------
 
-## 📚 Other Studies and Training
+<details>
+  <summary>## 📚 Other Studies and Training</summary>
 
 - Visiting Researcher
   - McGill University (Montreal, Quebec, Canada) 2013
@@ -64,8 +71,13 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
   - Product Development (Specialist Qualification) 2012
     -  Finnish National Agency for Education (EDUFI)
 
+</details>
+
 ----------
-## 💼 Work history
+
+<details>
+  <summary>## 💼 Work history</summary>
+
 - Senior Data Scientist (Nightingale Health Ltd.) 2018 <br/>
   - Main projects: development of development environment and processes (DevOps), platform and process development for biomarker extraction (DS), development of risk models and predictions from biobank population data (DS)
   - My main role was leading and supporting scientific analyses for internal R&D and external dissemination. I was involved in development of data science environment and processes with DevOps team. However, my main contributions are in process and analysis development of the biomarker extraction product and product development for predicting risk scores in population models.
@@ -79,9 +91,22 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
   - Projects: **Brain & Work: multi-tasking at work (Tekes)** <br/>
   I was hired to conduct a literature reviews and ended up preparing my master’s thesis. I was also supporting the measurements, and maintaining laboratories.
 
+</details>
+
 ----------
 
+<details>
+  <summary>## 🏄 Extracurricular and Volunteer Positions</summary>
 
+
+- Slackline Finland
+  - Member of Board
+
+- Finnish Alpine Club
+  - [Alppikerho.fi](http://alppikerho.fi)
+  - ex-Member of Board
+
+</details>
 
 <br />
 
