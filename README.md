@@ -116,6 +116,9 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 - Some Effects of Continous Tempo and Pitch Transformations in Perceived Pleasantness of Listening to a Musical Sound FileM Grohn, L Ahonen, M HuotilainenInternational Community for Auditory Display, 2011
 - Cueing spatial visual attention by symbolic and directional auditory stimuliR Nasanen, L Ahonen, S Jagadeesan, K MüllerPerception ECVP abstract 37, 98-98, 2008
 </details>
+
+➡️ [more publications...][researchgate]
+
 ----------
 
 ## 🏄 Extracurricular and Volunteer Positions
