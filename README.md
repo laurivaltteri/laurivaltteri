@@ -10,6 +10,7 @@
 lauri@protonmail.com || +358 43 824 0302
 
 ----------
+
 ## ♈️ Biography
 
 My strength is the neuroscience twist in my analytics expertise. I’m a digital professional with profound understanding on novel data analytics and data tools. Furthermore, the engineering-psychology foundation ensures understanding possibilities and caveats of data analytics and statistical biases. 
@@ -32,6 +33,7 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
+<br />
 
 ----------
 
@@ -43,9 +45,9 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 </details>
 
 ----------
-
-##<details>
-  <summary>🎓 Education</summary>
+## 🎓 Education
+<details>
+  <summary></summary>
 
 - Doctor of Philosophy
   - University of Helsinki
@@ -59,9 +61,9 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 </details>
 
 ----------
-
+## 📚 Other Studies and Training
 ##<details>
-  <summary>📚 Other Studies and Training</summary>
+  <summary></summary>
 
 - Visiting Researcher
   - McGill University (Montreal, Quebec, Canada) 2013
@@ -75,9 +77,9 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 </details>
 
 ----------
-
+## 💼 Work history
 <details>
-  <summary>## 💼 Work history</summary>
+  <summary></summary>
 
 - Senior Data Scientist (Nightingale Health Ltd.) 2018 <br/>
   - Main projects: development of development environment and processes (DevOps), platform and process development for biomarker extraction (DS), development of risk models and predictions from biobank population data (DS)
@@ -95,9 +97,9 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 </details>
 
 ----------
-
+## 🏄 Extracurricular and Volunteer Positions
 <details>
-  <summary>## 🏄 Extracurricular and Volunteer Positions</summary>
+  <summary></summary>
 
 
 - Slackline Finland
