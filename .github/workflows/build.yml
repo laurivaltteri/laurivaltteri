@@ -1,0 +1,48 @@
+name: CI
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: r-lib/actions/setup-r@master
+    - uses: r-lib/actions/setup-pandoc@master
+
+    - name: Cache R packages
+      uses: actions/cache@v1
+      with:
+        path: ${{ env.R_LIBS_USER }}
+        key: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-${{ hashFiles('.github/depends.Rds') }}
+        restore-keys: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-
+
+    - name: Install system dependencies
+      run: |
+        sudo apt-get install libcurl4-openssl-dev
+    - name: Install R package dependencies
+      run: |
+        if (!require('remotes')) install.packages('remotes')
+        if (!require('rvest')) remotes::install_github('tidyverse/rvest')
+      shell: Rscript {0}
+
+    - name: Fetch stats and update README.md
+      run: |
+        Rscript scrape-google-citations.R
+    - name: Commit and push if needed
+      run: |-
+        git diff
+        git config --global user.email "readme-bot@example.com"
+        git config --global user.name "README-bot"
+        git add -A
+        git commit -m "Updated README.md automatically" || exit 0
+        git push
