@@ -37,8 +37,9 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
 
 ----------
 
-##<details>
-  <summary> 🎯 Skills</summary>
+## 🎯 Skills
+<details>
+  <summary></summary>
 
 R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, Data Fusion, Feature Extraction, Bayesian Analysis, Classification Techniques, Graph-theory, Signal Processing, Computational Neuroscience, Health Technology, IoT, Academic Communications, Presenting, Teaching, Project Management, AI, Cognitive Psychology
 
@@ -62,7 +63,7 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 
 ----------
 ## 📚 Other Studies and Training
-##<details>
+<details>
   <summary></summary>
 
 - Visiting Researcher
@@ -95,6 +96,11 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
   I was hired to conduct a literature reviews and ended up preparing my master’s thesis. I was also supporting the measurements, and maintaining laboratories.
 
 </details>
+----------
+
+
+## 📄 Publications
+
 
 ----------
 ## 🏄 Extracurricular and Volunteer Positions
