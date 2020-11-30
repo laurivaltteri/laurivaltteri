@@ -102,6 +102,7 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 ## 📄 Publications
 <details>
   <summary>publications extracted from google scholar</summary>
+  
 - The psychophysiology primer: a guide to methods and a broad review with a focus on human-computer interactionBU Cowley, M Filetti, K Lukander, J Torniainen, A Helenius, L Ahonen, ...Foundations and Trends in Human-Computer Interaction, 2016
 - Job burnout is associated with dysfunctions in brain mechanisms of voluntary and involuntary attentionL Sokka, M Leinikka, J Korpela, A Henelius, L Ahonen, C Alain, K Alho, ...Biological Psychology 117, 56-66, 2016
 - Cognitive collaboration found in cardiac physiology: Study in classroom environmentL Ahonen, B Cowley, J Torniainen, A Ukkonen, A Vihavainen, ...PloS one 11 (7), e0159178, 2016
@@ -115,6 +116,7 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 - DECREASE OF PROCESSING SPEED DUE TO SWITCHING BETWEEN TASKS: MEG EVIDENCEM Huotilainen, L AhonenPSYCHOPHYSIOLOGY 50, S85-S85, 2013
 - Some Effects of Continous Tempo and Pitch Transformations in Perceived Pleasantness of Listening to a Musical Sound FileM Grohn, L Ahonen, M HuotilainenInternational Community for Auditory Display, 2011
 - Cueing spatial visual attention by symbolic and directional auditory stimuliR Nasanen, L Ahonen, S Jagadeesan, K MüllerPerception ECVP abstract 37, 98-98, 2008
+
 </details>
 
 ➡️ [more publications...][researchgate]
