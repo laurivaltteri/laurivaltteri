@@ -2,7 +2,7 @@
 library(rvest)
 
 gscholar_link <- "https://scholar.google.com/citations?user=563lZEwAAAAJ&hl=en"
-readme_loc <- "~/Downloads/README.md"
+readme_loc <- "README.md"
 
 citations <- read_html(gscholar_link) %>%
   html_table(header = TRUE, fill = TRUE) %>% 
