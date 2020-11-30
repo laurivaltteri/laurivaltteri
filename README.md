@@ -39,7 +39,7 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
 
 ## 🎯 Skills
 <details>
-  <summary></summary>
+  <summary>brief listing of relevant skills</summary>
 
 R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, Data Fusion, Feature Extraction, Bayesian Analysis, Classification Techniques, Graph-theory, Signal Processing, Computational Neuroscience, Health Technology, IoT, Academic Communications, Presenting, Teaching, Project Management, AI, Cognitive Psychology
 
@@ -48,7 +48,7 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 ----------
 ## 🎓 Education
 <details>
-  <summary></summary>
+  <summary>diplomas and theses</summary>
 
 - Doctor of Philosophy
   - University of Helsinki
@@ -64,7 +64,7 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 ----------
 ## 📚 Other Studies and Training
 <details>
-  <summary></summary>
+  <summary>certificates and international experience</summary>
 
 - Visiting Researcher
   - McGill University (Montreal, Quebec, Canada) 2013
@@ -80,7 +80,7 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 ----------
 ## 💼 Work history
 <details>
-  <summary></summary>
+  <summary>latest employments</summary>
 
 - Senior Data Scientist (Nightingale Health Ltd.) 2018 <br/>
   - Main projects: development of development environment and processes (DevOps), platform and process development for biomarker extraction (DS), development of risk models and predictions from biobank population data (DS)
@@ -100,12 +100,15 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 
 
 ## 📄 Publications
+<details>
+  <summary>publications extracted from google scholar</summary>
 
 
 ----------
+
 ## 🏄 Extracurricular and Volunteer Positions
 <details>
-  <summary></summary>
+  <summary>stuff from my freetime</summary>
 
 
 - Slackline Finland
