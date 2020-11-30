@@ -101,7 +101,7 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 
 ## 📄 Publications
 <details>
-  <summary>publications extracted from google scholar</summary> - first - second -third
+  <summary>publications extracted from google scholar</summary> - first \n - second \n - third
 
 </details>
 ----------
