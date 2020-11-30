@@ -27,12 +27,13 @@ lauri@protonmail.com || +358 43 824 0302
 
 ----------
 ## 📱 Online Profiles
+
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<i class="fas fa-globe"></i>][website]
 [<i class="fab fa-linkedin"></i>][linkedin]
 [<i class="fab fa-instagram-square"></i>][instagram]
 [<i class="fab fa-researchgate"></i>][researchgate]
 
--->
 
 <br />
 
