@@ -32,10 +32,13 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
 
-## 🎯 Skills
+----------
+<details>
+  <summary>:zap: 🎯 Skills</summary>
 
 R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, Data Fusion, Feature Extraction, Bayesian Analysis, Classification Techniques, Graph-theory, Signal Processing, Computational Neuroscience, Health Technology, IoT, Academic Communications, Presenting, Teaching, Project Management, AI, Cognitive Psychology
 
+</details>
 ----------
 ## 🎓 Education
 
@@ -49,6 +52,35 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
   - Thesis: [a Computational Approach to Estimation of Crowding in Natural Images](http://viXra.org/abs/1802.0066)
 
 ----------
+
+## 📚 Other Studies and Training
+
+- Visiting Researcher
+  - McGill University (Montreal, Quebec, Canada) 2013
+    - Department of Biomedical Engineering and the School of Computer Science
+  - Université de Montréal (Québec, Canada) 2012
+    - BRAMS – International Laboratory for Brain, Music and Sound Research
+- Other Certificates
+  - Product Development (Specialist Qualification) 2012
+    -  Finnish National Agency for Education (EDUFI)
+
+----------
+## 💼 Work history
+- Senior Data Scientist (Nightingale Health Ltd.) 2018 <br/>
+  - Main projects: development of development environment and processes (DevOps), platform and process development for biomarker extraction (DS), development of risk models and predictions from biobank population data (DS)
+  - My main role was leading and supporting scientific analyses for internal R&D and external dissemination. I was involved in development of data science environment and processes with DevOps team. However, my main contributions are in process and analysis development of the biomarker extraction product and product development for predicting risk scores in population models.
+- Research Engineer (Finnish Institute of Occupational Health) 2009
+  - Projects: **Seamless patient care (Tekes), Burnout in the brain at work (Academy of Finland), Revolution of Knowledge Work (Tekes)** <br/>
+  I prepared my PhD. I took part in research funding applications, and presented results in international forums. I was responsible in setting up research paradigms and analysis of results. I gave lectures and planned the projects with collaborators and customers. I was also leading projects.
+- Laboratory Engineer (Finnish Institute of Occupational Health) 2008
+  - Projects: **SalWe -- enabling research for health and well-being (Tekes/EU), Supporting situation awareness in demanding operating conditions through wearable multimodal user interfaces (Tekes)**  <br/>
+  Supporting research paradigm development, conducting measurements, supporting laboratory maintenance and development, preparing literature reviews.
+- Research Assistant (Finnish Institute of Occupational Health) 2007
+  - Projects: **Brain & Work: multi-tasking at work (Tekes)** <br/>
+  I was hired to conduct a literature reviews and ended up preparing my master’s thesis. I was also supporting the measurements, and maintaining laboratories.
+
+----------
+
 
 
 <br />
