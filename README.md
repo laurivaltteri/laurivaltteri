@@ -105,7 +105,7 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 
 </details>
 
-➡️ [more blog posts...][researchgate]
+➡️ [more publications...][researchgate]
 
 ----------
 
