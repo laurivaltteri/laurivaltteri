@@ -141,7 +141,7 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 
 
 
-[website]: https://laurivaltteri.com
+[website]: https://www.laurivaltteri.com
 [instagram]: https://instagram.com/laur1valtteri
 [linkedin]: https://linkedin.com/in/laurivaltteri
 [researchgate]: https://researchgate.net/profile/Lauri_Ahonen
