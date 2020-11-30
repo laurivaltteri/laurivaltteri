@@ -104,6 +104,9 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
   <summary>publications extracted from google scholar</summary>
 
 </details>
+
+➡️ [more blog posts...][researchgate]
+
 ----------
 
 ## 🏄 Extracurricular and Volunteer Positions
