@@ -25,6 +25,7 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahonenlauri&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ----------
+
 ## 📱 Online Profiles
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -34,8 +35,8 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
 
 ----------
 
-<details>
-  <summary>## 🎯 Skills</summary>
+##<details>
+  <summary> 🎯 Skills</summary>
 
 R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, Data Fusion, Feature Extraction, Bayesian Analysis, Classification Techniques, Graph-theory, Signal Processing, Computational Neuroscience, Health Technology, IoT, Academic Communications, Presenting, Teaching, Project Management, AI, Cognitive Psychology
 
@@ -43,8 +44,8 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 
 ----------
 
-<details>
-  <summary>## 🎓 Education</summary>
+##<details>
+  <summary>🎓 Education</summary>
 
 - Doctor of Philosophy
   - University of Helsinki
@@ -59,8 +60,8 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 
 ----------
 
-<details>
-  <summary>## 📚 Other Studies and Training</summary>
+##<details>
+  <summary>📚 Other Studies and Training</summary>
 
 - Visiting Researcher
   - McGill University (Montreal, Quebec, Canada) 2013
