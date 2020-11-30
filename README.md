@@ -29,10 +29,9 @@ lauri@protonmail.com || +358 43 824 0302
 ## 📱 Online Profiles
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<i class="fas fa-globe"></i>][website]
-[<i class="fab fa-linkedin"></i>][linkedin]
-[<i class="fab fa-instagram-square"></i>][instagram]
-[<i class="fab fa-researchgate"></i>][researchgate]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
 
 
 <br />
