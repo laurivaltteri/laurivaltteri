@@ -47,7 +47,7 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 ## 🎓 Education
 <details>
   <summary>diplomas and theses</summary>
-     
+<br />
 - Doctor of Philosophy
   - University of Helsinki
   - Major: **Cognitive science**
