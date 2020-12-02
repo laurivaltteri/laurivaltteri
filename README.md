@@ -48,6 +48,7 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 <details>
   <summary>diplomas and theses</summary>
 〰️
+  
 - Doctor of Philosophy
   - University of Helsinki
   - Major: **Cognitive science**
@@ -64,6 +65,7 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 <details>
   <summary>certificates and international experience</summary>
 〰️
+  
 - Visiting Researcher
   - McGill University (Montreal, Quebec, Canada) 2013
     - Department of Biomedical Engineering and the School of Computer Science
@@ -80,6 +82,7 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 <details>
   <summary>latest employments</summary>
 〰️
+  
 - Senior Data Scientist (Nightingale Health Ltd.) 2018 <br/>
   - Main projects: development of development environment and processes (DevOps), platform and process development for biomarker extraction (DS), development of risk models and predictions from biobank population data (DS)
   - My main role was leading and supporting scientific analyses for internal R&D and external dissemination. I was involved in development of data science environment and processes with DevOps team. However, my main contributions are in process and analysis development of the biomarker extraction product and product development for predicting risk scores in population models.
@@ -100,6 +103,7 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 <details>
   <summary>publications extracted from google scholar</summary>
 〰️
+  
 - The psychophysiology primer: a guide to methods and a broad review with a focus on human-computer interactionBU Cowley, M Filetti, K Lukander, J Torniainen, A Helenius, L Ahonen, ...Foundations and Trends in Human-Computer Interaction, 2016
 - Job burnout is associated with dysfunctions in brain mechanisms of voluntary and involuntary attentionL Sokka, M Leinikka, J Korpela, A Henelius, L Ahonen, C Alain, K Alho, ...Biological Psychology 117, 56-66, 2016
 - Cognitive collaboration found in cardiac physiology: Study in classroom environmentL Ahonen, B Cowley, J Torniainen, A Ukkonen, A Vihavainen, ...PloS one 11 (7), e0159178, 2016
