@@ -48,7 +48,7 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
 ## 🎓 Education
 <details>
   <summary>diplomas and theses</summary>
-<br />
+  <br />
   
   - Doctor of Philosophy
     - University of Helsinki
@@ -65,16 +65,16 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
 ## 📚 Other Studies and Training
 <details>
   <summary>certificates and international experience</summary>
-〰️
+  <br />
   
-- Visiting Researcher
-  - McGill University (Montreal, Quebec, Canada) 2013
-    - Department of Biomedical Engineering and the School of Computer Science
-  - Université de Montréal (Québec, Canada) 2012
-    - BRAMS – International Laboratory for Brain, Music and Sound Research
-- Other Certificates
-  - Product Development (Specialist Qualification) 2012
-    -  Finnish National Agency for Education (EDUFI)
+  - Visiting Researcher
+    - McGill University (Montreal, Quebec, Canada) 2013
+      - Department of Biomedical Engineering and the School of Computer Science
+    - Université de Montréal (Québec, Canada) 2012
+      - BRAMS – International Laboratory for Brain, Music and Sound Research
+  - Other Certificates
+    - Product Development (Specialist Qualification) 2012
+      -  Finnish National Agency for Education (EDUFI)
 
 </details>
 
@@ -82,19 +82,19 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
 ## 💼 Work history
 <details>
   <summary>latest employments</summary>
-〰️
+  <br />
   
-- Senior Data Scientist (Nightingale Health Ltd.) 2018 <br/>
-  - Main projects: development of development environment and processes (DevOps), platform and process development for biomarker extraction (DS), development of risk models and predictions from biobank population data (DS)
-  - My main role was leading and supporting scientific analyses for internal R&D and external dissemination. I was involved in development of data science environment and processes with DevOps team. However, my main contributions are in process and analysis development of the biomarker extraction product and product development for predicting risk scores in population models.
-- Research Engineer (Finnish Institute of Occupational Health) 2009
-  - Projects: **Seamless patient care (Tekes), Burnout in the brain at work (Academy of Finland), Revolution of Knowledge Work (Tekes)** <br/>
+  - Senior Data Scientist (Nightingale Health Ltd.) 2018 <br/>
+    - Main projects: development of development environment and processes (DevOps), platform and process development for biomarker extraction (DS), development of risk models and predictions from biobank population data (DS)
+    - My main role was leading and supporting scientific analyses for internal R&D and external dissemination. I was involved in development of data science environment and processes with DevOps team. However, my main contributions are in process and analysis development of the biomarker extraction product and product development for predicting risk scores in population models.
+  - Research Engineer (Finnish Institute of Occupational Health) 2009
+    - Projects: **Seamless patient care (Tekes), Burnout in the brain at work (Academy of Finland), Revolution of Knowledge Work (Tekes)** <br/>
   I prepared my PhD. I took part in research funding applications, and presented results in international forums. I was responsible in setting up research paradigms and analysis of results. I gave lectures and planned the projects with collaborators and customers. I was also leading projects.
-- Laboratory Engineer (Finnish Institute of Occupational Health) 2008
-  - Projects: **SalWe -- enabling research for health and well-being (Tekes/EU), Supporting situation awareness in demanding operating conditions through wearable multimodal user interfaces (Tekes)**  <br/>
+  - Laboratory Engineer (Finnish Institute of Occupational Health) 2008
+    - Projects: **SalWe -- enabling research for health and well-being (Tekes/EU), Supporting situation awareness in demanding operating conditions through wearable multimodal user interfaces (Tekes)**  <br/>
   Supporting research paradigm development, conducting measurements, supporting laboratory maintenance and development, preparing literature reviews.
-- Research Assistant (Finnish Institute of Occupational Health) 2007
-  - Projects: **Brain & Work: multi-tasking at work (Tekes)** <br/>
+  - Research Assistant (Finnish Institute of Occupational Health) 2007
+    - Projects: **Brain & Work: multi-tasking at work (Tekes)** <br/>
   I was hired to conduct a literature reviews and ended up preparing my master’s thesis. I was also supporting the measurements, and maintaining laboratories.
 
 </details>
@@ -103,7 +103,7 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
 ## 📄 Publications
 <details>
   <summary>publications extracted from google scholar</summary>
-〰️
+  <br />
   
 - The psychophysiology primer: a guide to methods and a broad review with a focus on human-computer interactionBU Cowley, M Filetti, K Lukander, J Torniainen, A Helenius, L Ahonen, ...Foundations and Trends in Human-Computer Interaction, 2016
 - Job burnout is associated with dysfunctions in brain mechanisms of voluntary and involuntary attentionL Sokka, M Leinikka, J Korpela, A Henelius, L Ahonen, C Alain, K Alho, ...Biological Psychology 117, 56-66, 2016
@@ -128,12 +128,13 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
 ## 🏄 Extracurricular and Volunteer Positions
 <details>
   <summary>stuff from my freetime</summary>
-〰️
-- Slackline Finland
-  - Member of Board
-- Finnish Alpine Club
-  - [Alppikerho.fi](http://alppikerho.fi)
-  - ex-Member of Board
+  <br />
+  
+  - Slackline Finland
+    - Member of Board
+  - Finnish Alpine Club
+    - [Alppikerho.fi](http://alppikerho.fi)
+    - ex-Member of Board
 
 </details>
 
