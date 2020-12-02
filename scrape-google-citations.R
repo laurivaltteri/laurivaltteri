@@ -11,7 +11,7 @@ citations <- read_html(gscholar_link) %>%
   janitor::clean_names() %>% 
   .$x %>% 
   {paste("-", .)} %>%
-  {c("  <summary>publications extracted from google scholar</summary>", "", .,"", "</details>")}
+  {c("  <summary>publications extracted from google scholar</summary>", "<br />", .,"", "</details>")}
 
 
 readme_txt <- readLines(readme_loc)
