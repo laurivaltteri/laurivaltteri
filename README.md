@@ -94,9 +94,8 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
   I was hired to conduct a literature reviews and ended up preparing my master’s thesis. I was also supporting the measurements, and maintaining laboratories.
 
 </details>
+
 ----------
-
-
 ## 📄 Publications
 <details>
   <summary>publications extracted from google scholar</summary>
