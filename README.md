@@ -115,7 +115,7 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
 
 </details>
 
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate][more publications...][researchgate]
+[<img align="top" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate][more publications...][researchgate]
 
 ----------
 
