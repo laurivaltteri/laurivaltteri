@@ -19,12 +19,6 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
 
 ----------
 
-### 🎧 Spotify Playing
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahonenlauri&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
-----------
-
 ## 📱 Online Profiles
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -121,7 +115,7 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
 
 </details>
 
-➡️ [more publications...][researchgate]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate][more publications...][researchgate]
 
 ----------
 
@@ -137,6 +131,13 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
     - ex-Member of Board
 
 </details>
+
+----------
+
+### 🎧 Spotify Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahonenlauri&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 
 <br />
 
