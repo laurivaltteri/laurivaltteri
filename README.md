@@ -39,7 +39,8 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
 <details>
   <summary>brief listing of relevant skills</summary>
 <br />
-R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, Data Fusion, Feature Extraction, Bayesian Analysis, Classification Techniques, Graph-theory, Signal Processing, Computational Neuroscience, Health Technology, IoT, Academic Communications, Presenting, Teaching, Project Management, AI, Cognitive Psychology
+  
+  R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, Data Fusion, Feature Extraction, Bayesian Analysis, Classification Techniques, Graph-theory, Signal Processing, Computational Neuroscience, Health Technology, IoT, Academic Communications, Presenting, Teaching, Project Management, AI, Cognitive Psychology
 
 </details>
 
@@ -47,16 +48,16 @@ R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, D
 ## 🎓 Education
 <details>
   <summary>diplomas and theses</summary>
-〰️
+<br />
   
-- Doctor of Philosophy
-  - University of Helsinki
-  - Major: **Cognitive science**
-  - Thesis: [Quantifying Cognition: Applications for Ubiquitous Data](https://helda.helsinki.fi/handle/10138/235507)
-- Master of Science in Technology
-  - Aalto University
-  - Major: **Cognitive technology**
-  - Thesis: [a Computational Approach to Estimation of Crowding in Natural Images](http://viXra.org/abs/1802.0066)
+  - Doctor of Philosophy
+    - University of Helsinki
+    - Major: **Cognitive science**
+    - Thesis: [Quantifying Cognition: Applications for Ubiquitous Data](https://helda.helsinki.fi/handle/10138/235507)
+  - Master of Science in Technology
+    - Aalto University
+    - Major: **Cognitive technology**
+    - Thesis: [a Computational Approach to Estimation of Crowding in Natural Images](http://viXra.org/abs/1802.0066)
 
 </details>
 
