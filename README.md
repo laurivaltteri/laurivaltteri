@@ -1,12 +1,12 @@
 <!--
 **laurivaltteri/laurivaltteri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+![example workflow name](https://github.com/laurivaltteri/laurivaltteri/workflows/CI%20checking%20Google/badge.svg)
 
 # 👨‍🔬 Curriulum Vitae
 
 **PhD** (cognitive science) || **MSc** (technology) <br/>
-lauri@protonmail.com || +358 43 824 0302 <br/>
-![example workflow name](https://github.com/laurivaltteri/laurivaltteri/workflows/CI%20checking%20Google/badge.svg)
+lauri@protonmail.com || +358 43 824 0302
 
 ----------
 
