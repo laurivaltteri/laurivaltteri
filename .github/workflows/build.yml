@@ -1,4 +1,4 @@
-name: CI_for_scholar_check
+name: CI checking Google
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
