@@ -5,8 +5,8 @@
 # 👨‍🔬 Curriulum Vitae
 
 **PhD** (cognitive science) || **MSc** (technology) <br/>
-lauri@protonmail.com || +358 43 824 0302
-![example workflow name](https://github.com/laurivaltteri/laurivaltteri/workflows/CI_for_scholar_check/badge.svg)
+lauri@protonmail.com || +358 43 824 0302 <br/>
+![example workflow name](https://github.com/laurivaltteri/laurivaltteri/workflows/CI%20checking%20Google/badge.svg)
 
 ----------
 
