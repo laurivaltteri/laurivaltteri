@@ -6,6 +6,7 @@
 
 **PhD** (cognitive science) || **MSc** (technology) <br/>
 lauri@protonmail.com || +358 43 824 0302
+![example workflow name](https://github.com/laurivaltteri/laurivaltteri/workflows/CI_for_scholar_check/badge.svg)
 
 ----------
 
