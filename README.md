@@ -103,7 +103,7 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
 - The psychophysiology primer: a guide to methods and a broad review with a focus on human-computer interactionBU Cowley, M Filetti, K Lukander, J Torniainen, A Helenius, L Ahonen, ...Foundations and Trends in Human-Computer Interaction, 2016
 - Job burnout is associated with dysfunctions in brain mechanisms of voluntary and involuntary attentionL Sokka, M Leinikka, J Korpela, A Henelius, L Ahonen, C Alain, K Alho, ...Biological Psychology 117, 56-66, 2016
 - Cognitive collaboration found in cardiac physiology: Study in classroom environmentL Ahonen, B Cowley, J Torniainen, A Ukkonen, A Vihavainen, ...PloS one 11 (7), e0159178, 2016
-- Within-and between-session replicability of cognitive brain processes: an MEG study with an N-back taskL Ahonen, M Huotilainen, E BratticoPhysiology & Behavior 158, 43-53, 2016
+- Within-and between-session replicability of cognitive brain processes: an MEG study with an N-back taskL Ahonen, M Huotilainen, E BratticoPhysiology & behavior 158, 43-53, 2016
 - A short review and primer on electroencephalography in human computer interaction applicationsL Ahonen, B CowleyarXiv preprint arXiv:1609.00183, 2016
 - Comparing Auditory Stimuli for Sleep Enhancement: Mimicking a Sleeping SituationM Leminen, L Ahonen, M Gröhn, M Huotilainen, T Paunio, J VirkkalaGeorgia Institute of Technology, 2014
 - Designing auditory stimulus for sleep enhancementL Ahonen, M Gröhn, M Huotilainen, S Jagadeesan, T Paunio, J VirkkalaProc. of the 19th Int. Conf. of Auditory Display (ICAD 2013), 2013
