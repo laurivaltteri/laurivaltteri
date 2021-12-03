@@ -102,8 +102,8 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
 
 - The psychophysiology primer: a guide to methods and a broad review with a focus on human-computer interactionBU Cowley, M Filetti, K Lukander, J Torniainen, A Helenius, L Ahonen, ...Foundations and Trends in Human-Computer Interaction, 2016
 - Job burnout is associated with dysfunctions in brain mechanisms of voluntary and involuntary attentionL Sokka, M Leinikka, J Korpela, A Henelius, L Ahonen, C Alain, K Alho, ...Biological Psychology 117, 56-66, 2016
-- Cognitive collaboration found in cardiac physiology: Study in classroom environmentL Ahonen, B Cowley, J Torniainen, A Ukkonen, A Vihavainen, ...PloS one 11 (7), e0159178, 2016
 - Biosignals reflect pair-dynamics in collaborative work: EDA and ECG study of pair-programming in a classroom environmentL Ahonen, BU Cowley, A Hellas, K PuolamäkiScientific reports 8 (1), 1-16, 2018
+- Cognitive collaboration found in cardiac physiology: Study in classroom environmentL Ahonen, B Cowley, J Torniainen, A Ukkonen, A Vihavainen, ...PloS one 11 (7), e0159178, 2016
 - Within-and between-session replicability of cognitive brain processes: An MEG study with an N-back taskL Ahonen, M Huotilainen, E BratticoPhysiology & behavior 158, 43-53, 2016
 - Diminished brain responses to second-language words are linked with native-language literacy skills in dyslexiaS Ylinen, K Junttila, M Laasonen, P Iverson, L Ahonen, T KujalaNeuropsychologia 122, 105-115, 2019
 - Effects of pleasant and unpleasant auditory mood induction on the performance and in brain activity in cognitive tasksM Gröhn, L Ahonen, M HuotilainenGeorgia Institute of Technology, 2012
