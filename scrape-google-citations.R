@@ -1,5 +1,4 @@
 # R parser for google scholar
-install.packages("rvest")
 library(rvest)
 
 gscholar_link <- "https://scholar.google.com/citations?user=563lZEwAAAAJ&hl=en"
