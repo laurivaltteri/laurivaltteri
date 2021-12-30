@@ -12,17 +12,20 @@ lauri@protonmail.com || +358 43 824 0302
 
 ## ♈️ Biography
 
-My strength is the neuroscience twist in my analytics expertise. I’m a digital professional with profound understanding on novel data analytics and data tools. Furthermore, the engineering-psychology foundation ensures understanding possibilities and caveats of data analytics and statistical biases. 
+My strengths are neuroscience twist in my analytics expertise and experience in talented teams in data science. I’m a digital professional with profound understanding on novel data analytics and data tools. Furthermore, the engineering-psychology foundation ensures understanding potential and caveats of statistical and cognitive biases.
 
-My background in academia has provided a wide outlook over digital health data with over ten years experience on personalized healthcare. The experience in science has also yielded excellent capabilities in international collaboration, strong proficiency for independent work, and organising and managing projects. 
+My background in academia has provided a wide outlook over digital health data with over ten years of experience in personalized health. The experience in science has also yielded excellent capabilities in international collaboration, strong proficiency in independent work, and organising and managing projects. Working in multidisciplinary teams has flourished skills in resolving conflicts and resulted a solution-oriented mindset. Despite the independent attitude, research projects have also thrived behaviour to actively ask for guidance.
 
-My experience in cutting edge R&D teams has provided an extensive and practical competence in current data tools, methods, and technologies. Moreover, my endeavour in scale up business environment has provided an excellent position to learn agile methods and participate in product development and implementation of modern architectures. Working in a small company, constantly redefining goals has increased perseverance but yet resilient approach. 
+I've been involved in multiple applied research and basic research projects with physiological measurements, please see the *Skills* section for modalities. Projects' topics have involved sleep research, circadian rhythms, psychophysics, models of physiological systems, executive functions, situational awareness and multimodal perception, burn-out, and autonomic nervous system responses to emotional-cognitive factors such stress.
+
+My experience in cutting edge R&D teams has provided an extensive practical competence of current data tools, methods, and technologies. Moreover, my endeavour in scale-up business environment has provided an excellent position to gain experience in agile methods and to participate in product development and implementation of modern architectures. Working in a small company, constantly redefining goals has enhanced perseverant but yet resilient mindset.
+
+As an analytic personality, I believe one should always think of the big picture. It is important to be able to identify what is relevant and to focus on that. And I can't emphasize enough the relevance of utilizing state of art tools.
 
 ----------
 
 ## 📱 Online Profiles
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="top" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
@@ -35,7 +38,7 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
   <summary>brief listing of relevant skills</summary>
 <br />
   
-  R, Python, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, Data Fusion, Feature Extraction, Bayesian Analysis, Classification Techniques, Graph-theory, Signal Processing, Computational Neuroscience, Health Technology, IoT, Academic Communications, Presenting, Teaching, Project Management, AI, Cognitive Psychology
+R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, Data Fusion, Feature Extraction, Bayesian Analysis, Classification Techniques, Graph-theory, Signal Processing, Computational Neuroscience, Health Technology, IoT, Academic Communications, MATLAB, EEG, MEG, ECG, PPG, Actigraphy, EDA, exprience sampling, Presenting, Teaching, Project Management, AI, Cognitive Psychology
 
 </details>
 
@@ -62,14 +65,19 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
   <summary>certificates and international experience</summary>
   <br />
   
-  - Visiting Researcher
-    - McGill University (Montreal, Quebec, Canada) 2013
-      - Department of Biomedical Engineering and the School of Computer Science
-    - Université de Montréal (Québec, Canada) 2012
-      - BRAMS – International Laboratory for Brain, Music and Sound Research
-  - Other Certificates
-    - Product Development (Specialist Qualification) 2012
-      -  Finnish National Agency for Education (EDUFI)
+- Postdoctoral Researcher
+  - University of Helsinki (Finland) 2021 -
+    - High Performance Cognition Laboratory
+    - Part-time project researcher and consulting laboratory infra development
+    - [NordForsk GUESSED project](https://www.nordforsk.org/projects/grappling-uncertainty-environments-signaling-spurious-experiential-decisions-guessed)
+- Visiting Researcher
+  - McGill University (Montreal, Quebec, Canada) 2013
+    - Department of Biomedical Engineering and the School of Computer Science
+  - Université de Montréal (Québec, Canada) 2012
+    - BRAMS – International Laboratory for Brain, Music and Sound Research
+- Other Certificates
+  - Product Development (Specialist Qualification) 2012
+    -  Finnish National Agency for Education (EDUFI)
 
 </details>
 
@@ -100,6 +108,7 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
   <summary>publications extracted from google scholar</summary>
 <br />
 
+- Sari Ylinen, Katja Junttila, Marja Laasonen, Paul Iverson, Lauri Ahonen, Teija Kujala *Diminished brain responses to second-language words are linked with native-language literacy skills in dyslexia*, Neuropsychologia S0028-3932(18)30746-2, 11/2018. [DOI: 10.1016/j.neuropsychologia.2018.11.005](https://doi.org/10.1016/j.neuropsychologia.2018.11.005)
 - The psychophysiology primer: a guide to methods and a broad review with a focus on human-computer interactionBU Cowley, M Filetti, K Lukander, J Torniainen, A Helenius, L Ahonen, ...Foundations and Trends in Human-Computer Interaction, 2016
 - Job burnout is associated with dysfunctions in brain mechanisms of voluntary and involuntary attentionL Sokka, M Leinikka, J Korpela, A Henelius, L Ahonen, C Alain, K Alho, ...Biological Psychology 117, 56-66, 2016
 - Biosignals reflect pair-dynamics in collaborative work: EDA and ECG study of pair-programming in a classroom environmentL Ahonen, BU Cowley, A Hellas, K PuolamäkiScientific reports 8 (1), 1-16, 2018
@@ -112,7 +121,7 @@ My experience in cutting edge R&D teams has provided an extensive and practical 
 - Designing auditory stimulus for sleep enhancementL Ahonen, M Gröhn, M Huotilainen, S Jagadeesan, T Paunio, J VirkkalaProc. of the 19th Int. Conf. of Auditory Display (ICAD 2013), 2013
 - Using regression makes extraction of shared variation in multiple datasets easyJ Korpela, A Henelius, L Ahonen, A Klami, K PuolamäkiData Mining and Knowledge Discovery 30 (5), 1112-1133, 2016
 - A short review and primer on event-related potentials in human computer interaction applicationsM Huotilainen, B Cowley, L AhonenarXiv preprint arXiv:1608.08353, 2016
-- DECREASE OF PROCESSING SPEED DUE TO SWITCHING BETWEEN TASKS: MEG EVIDENCEM Huotilainen, L AhonenPSYCHOPHYSIOLOGY 50, S85-S85, 2013
+- DECREASE OF PROCESSING SPEED DUE TO SWITCHING BETWEEN TASKS: MEG EVIDENCEM Huotilainen, L Ahonen, PSYCHOPHYSIOLOGY 50, S85-S85, 2013
 - Some Effects of Continous Tempo and Pitch Transformations in Perceived Pleasantness of Listening to a Musical Sound FileM Grohn, L Ahonen, M HuotilainenInternational Community for Auditory Display, 2011
 - Cueing spatial visual attention by symbolic and directional auditory stimuliR Nasanen, L Ahonen, S Jagadeesan, K MüllerPerception ECVP abstract 37, 98-98, 2008
 
