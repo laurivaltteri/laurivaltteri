@@ -108,7 +108,6 @@ R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, 
   <summary>publications extracted from google scholar</summary>
 <br />
 
-- Sari Ylinen, Katja Junttila, Marja Laasonen, Paul Iverson, Lauri Ahonen, Teija Kujala *Diminished brain responses to second-language words are linked with native-language literacy skills in dyslexia*, Neuropsychologia S0028-3932(18)30746-2, 11/2018. [DOI: 10.1016/j.neuropsychologia.2018.11.005](https://doi.org/10.1016/j.neuropsychologia.2018.11.005)
 - The psychophysiology primer: a guide to methods and a broad review with a focus on human-computer interactionBU Cowley, M Filetti, K Lukander, J Torniainen, A Helenius, L Ahonen, ...Foundations and Trends in Human-Computer Interaction, 2016
 - Job burnout is associated with dysfunctions in brain mechanisms of voluntary and involuntary attentionL Sokka, M Leinikka, J Korpela, A Henelius, L Ahonen, C Alain, K Alho, ...Biological Psychology 117, 56-66, 2016
 - Biosignals reflect pair-dynamics in collaborative work: EDA and ECG study of pair-programming in a classroom environmentL Ahonen, BU Cowley, A Hellas, K PuolamäkiScientific reports 8 (1), 1-16, 2018
