@@ -1,15 +1,14 @@
 # R parser for google scholar
 library(rvest)
 
-gscholar_link <- "https://scholar.google.com/citations?user=563lZEwAAAAJ&hl=en"
+gscholar_link <- "https://scholar.google.com/citations?hl=en&user=563lZEwAAAAJ&view_op=list_works&alert_preview_top_rm=2&sortby=pubdate"
 readme_loc <- "README.md"
 
 citations <- read_html(gscholar_link) %>%
-  html_table(header = TRUE, fill = TRUE) %>% 
-  .[[2]] %>%
-  .[-1,] %>% 
-  janitor::clean_names() %>% 
-  .$x %>% 
+  html_nodes(xpath=sprintf(".//tr/td[%d]", 1)) %>% 
+  .[c(-1,-2,-3)] %>%
+  purrr::map_chr(~paste0(html_nodes(., xpath=".//text()"), collapse="; ")) %>%
+  stringr::str_replace("(.*)(, )(\\d\\d\\d\\d$)", "\\1\\3") %>%
   {paste("-", .)} %>%
   {c("  <summary>publications extracted from google scholar</summary>", "<br />", "", ., "", "</details>")}
 
