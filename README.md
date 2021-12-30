@@ -26,9 +26,9 @@ As an analytic personality, I believe one should always think of the big picture
 
 ## 📱 Online Profiles
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="top" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/@glyphs/brands@0.1.9/color/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/@glyphs/brands@0.1.9/color/instagram.svg" />][instagram]
+[<img align="top" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" />][researchgate]
 <br />
 
 ----------
