@@ -147,11 +147,10 @@ R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, 
 
 ### 🎧 Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahonenlauri&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahonenlauri&cover_image=false&theme=default)](https://open.spotify.com/user/ahonenlauri)
 
 
 <br />
-
 
 
 [website]: https://www.laurivaltteri.com
