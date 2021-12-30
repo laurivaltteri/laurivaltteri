@@ -108,21 +108,21 @@ R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, 
   <summary>publications extracted from google scholar</summary>
 <br />
 
-- The psychophysiology primer: a guide to methods and a broad review with a focus on human-computer interactionBU Cowley, M Filetti, K Lukander, J Torniainen, A Helenius, L Ahonen, ...Foundations and Trends in Human-Computer Interaction, 2016
-- Job burnout is associated with dysfunctions in brain mechanisms of voluntary and involuntary attentionL Sokka, M Leinikka, J Korpela, A Henelius, L Ahonen, C Alain, K Alho, ...Biological Psychology 117, 56-66, 2016
-- Biosignals reflect pair-dynamics in collaborative work: EDA and ECG study of pair-programming in a classroom environmentL Ahonen, BU Cowley, A Hellas, K PuolamäkiScientific reports 8 (1), 1-16, 2018
-- Cognitive collaboration found in cardiac physiology: Study in classroom environmentL Ahonen, B Cowley, J Torniainen, A Ukkonen, A Vihavainen, ...PloS one 11 (7), e0159178, 2016
-- Within-and between-session replicability of cognitive brain processes: An MEG study with an N-back taskL Ahonen, M Huotilainen, E BratticoPhysiology & behavior 158, 43-53, 2016
-- Diminished brain responses to second-language words are linked with native-language literacy skills in dyslexiaS Ylinen, K Junttila, M Laasonen, P Iverson, L Ahonen, T KujalaNeuropsychologia 122, 105-115, 2019
-- Effects of pleasant and unpleasant auditory mood induction on the performance and in brain activity in cognitive tasksM Gröhn, L Ahonen, M HuotilainenGeorgia Institute of Technology, 2012
-- A short review and primer on electroencephalography in human computer interaction applicationsL Ahonen, B CowleyarXiv preprint arXiv:1609.00183, 2016
-- Comparing Auditory Stimuli for Sleep Enhancement: Mimicking a Sleeping SituationM Leminen, L Ahonen, M Gröhn, M Huotilainen, T Paunio, J VirkkalaGeorgia Institute of Technology, 2014
-- Designing auditory stimulus for sleep enhancementL Ahonen, M Gröhn, M Huotilainen, S Jagadeesan, T Paunio, J VirkkalaProc. of the 19th Int. Conf. of Auditory Display (ICAD 2013), 2013
-- Using regression makes extraction of shared variation in multiple datasets easyJ Korpela, A Henelius, L Ahonen, A Klami, K PuolamäkiData Mining and Knowledge Discovery 30 (5), 1112-1133, 2016
-- A short review and primer on event-related potentials in human computer interaction applicationsM Huotilainen, B Cowley, L AhonenarXiv preprint arXiv:1608.08353, 2016
-- DECREASE OF PROCESSING SPEED DUE TO SWITCHING BETWEEN TASKS: MEG EVIDENCEM Huotilainen, L Ahonen, PSYCHOPHYSIOLOGY 50, S85-S85, 2013
-- Some Effects of Continous Tempo and Pitch Transformations in Perceived Pleasantness of Listening to a Musical Sound FileM Grohn, L Ahonen, M HuotilainenInternational Community for Auditory Display, 2011
-- Cueing spatial visual attention by symbolic and directional auditory stimuliR Nasanen, L Ahonen, S Jagadeesan, K MüllerPerception ECVP abstract 37, 98-98, 2008
+- Diminished brain responses to second-language words are linked with native-language literacy skills in dyslexia; S Ylinen, K Junttila, M Laasonen, P Iverson, L Ahonen, T Kujala; Neuropsychologia 122, 105-115; 2019
+- Biosignals reflect pair-dynamics in collaborative work: EDA and ECG study of pair-programming in a classroom environment; L Ahonen, BU Cowley, A Hellas, K Puolamäki; Scientific reports 8 (1), 1-16; 2018
+- A short review and primer on electroencephalography in human computer interaction applications; L Ahonen, B Cowley; arXiv preprint arXiv:1609.00183; 2016
+- Using regression makes extraction of shared variation in multiple datasets easy; J Korpela, A Henelius, L Ahonen, A Klami, K Puolamäki; Data Mining and Knowledge Discovery 30 (5), 1112-1133; 2016
+- A short review and primer on event-related potentials in human computer interaction applications; M Huotilainen, B Cowley, L Ahonen; arXiv preprint arXiv:1608.08353; 2016
+- Cognitive collaboration found in cardiac physiology: Study in classroom environment; L Ahonen, B Cowley, J Torniainen, A Ukkonen, A Vihavainen, ...; PloS one 11 (7), e0159178; 2016
+- Within-and between-session replicability of cognitive brain processes: An MEG study with an N-back task; L Ahonen, M Huotilainen, E Brattico; Physiology &amp; behavior 158, 43-53; 2016
+- Job burnout is associated with dysfunctions in brain mechanisms of voluntary and involuntary attention; L Sokka, M Leinikka, J Korpela, A Henelius, L Ahonen, C Alain, K Alho, ...; Biological Psychology 117, 56-66; 2016
+- The psychophysiology primer: a guide to methods and a broad review with a focus on human-computer interaction; BU Cowley, M Filetti, K Lukander, J Torniainen, A Helenius, L Ahonen, ...; Foundations and Trends in Human-Computer Interaction; 2016
+- Comparing Auditory Stimuli for Sleep Enhancement: Mimicking a Sleeping Situation; M Leminen, L Ahonen, M Gröhn, M Huotilainen, T Paunio, J Virkkala; Georgia Institute of Technology; 2014
+- DECREASE OF PROCESSING SPEED DUE TO SWITCHING BETWEEN TASKS: MEG EVIDENCE; M Huotilainen, L Ahonen; PSYCHOPHYSIOLOGY 50, S85-S85; 2013
+- Designing auditory stimulus for sleep enhancement; L Ahonen, M Gröhn, M Huotilainen, S Jagadeesan, T Paunio, J Virkkala; Proc. of the 19th Int. Conf. of Auditory Display (ICAD 2013); 2013
+- Effects of pleasant and unpleasant auditory mood induction on the performance and in brain activity in cognitive tasks; M Gröhn, L Ahonen, M Huotilainen; Georgia Institute of Technology; 2012
+- Some Effects of Continous Tempo and Pitch Transformations in Perceived Pleasantness of Listening to a Musical Sound File; M Grohn, L Ahonen, M Huotilainen; International Community for Auditory Display; 2011
+- Cueing spatial visual attention by symbolic and directional auditory stimuli; R Nasanen, L Ahonen, S Jagadeesan, K Müller; Perception ECVP abstract 37, 98-98; 2008
 
 </details>
 
