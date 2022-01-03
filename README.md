@@ -26,10 +26,11 @@ As an analytic personality, I believe one should always think of the big picture
 
 ## 📱 Online Profiles
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/@glyphs/brands@0.1.9/color/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/@glyphs/brands@0.1.9/color/instagram.svg" />][instagram]
-[<img align="top" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" />][researchgate]
-<br />
+[<img align="left" width="38px" src="https://cdn.jsdelivr.net/npm/@glyphs/brands@0.1.9/color/linkedin.svg" />][linkedin]
+[<img align="left" width="38px" src="https://cdn.jsdelivr.net/npm/@glyphs/brands@0.1.9/color/instagram.svg" />][instagram]
+[<img align="left" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" />][researchgate]
+[<img align="left" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Applications-internet.svg" />][website]
+<br />  
 
 ----------
 
@@ -153,7 +154,7 @@ R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, 
 <br />
 
 
-[website]: https://www.laurivaltteri.com
+[website]: http://ec2-13-49-205-180.eu-north-1.compute.amazonaws.com/
 [instagram]: https://instagram.com/laur1valtteri
 [linkedin]: https://linkedin.com/in/laurivaltteri
 [researchgate]: https://researchgate.net/profile/Lauri_Ahonen
