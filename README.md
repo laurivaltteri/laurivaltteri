@@ -14,7 +14,7 @@ lauri@protonmail.com || +358 43 824 0302
 
 My strengths are neuroscience twist in my analytics expertise and experience in talented teams in data science. I’m a digital professional with profound understanding on novel data analytics and data tools. Furthermore, the engineering-psychology foundation ensures understanding potential and caveats of statistical and cognitive biases.
 
-My background in academia has provided a wide outlook over digital health data with over ten years of experience in personalized health. The experience in science has also yielded excellent capabilities in international collaboration, strong proficiency in independent work, and organising and managing projects. Working in multidisciplinary teams has flourished skills in resolving conflicts and resulted a solution-oriented mindset. Despite the independent attitude, research projects have also thrived behaviour to actively ask for guidance.
+My work history in academia has provided a wide outlook over digital health data with over ten years of experience in personalized health. The experience in science has also yielded excellent capabilities in international collaboration, strong proficiency in independent work, and organising and managing projects. Working in multidisciplinary teams has flourished skills in resolving conflicts and resulted a solution-oriented mindset. Despite the independent attitude, research projects have also thrived behaviour to actively ask for guidance.
 
 I've been involved in multiple applied research and basic research projects with physiological measurements, please see the *Skills* section for modalities. Projects' topics have involved sleep research, circadian rhythms, psychophysics, models of physiological systems, executive functions, situational awareness and multimodal perception, burn-out, and autonomic nervous system responses to emotional-cognitive factors such stress.
 
@@ -39,7 +39,7 @@ As an analytic personality, I believe one should always think of the big picture
   <summary>brief listing of relevant skills</summary>
 <br />
   
-R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, Data Fusion, Feature Extraction, Bayesian Analysis, Classification Techniques, Graph-theory, Signal Processing, Computational Neuroscience, Health Technology, IoT, Academic Communications, MATLAB, EEG, MEG, ECG, PPG, Actigraphy, EDA, exprience sampling, Presenting, Teaching, Project Management, AI, Cognitive Psychology
+R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, Data Fusion, Feature Extraction, Bayesian Analysis, Classification Techniques, Graph-theory, Signal Processing, Computational Neuroscience, Health Technology, IoT, Academic Communications, MATLAB, EEG, MEG, ECG, PPG, Actigraphy, EDA, exprience sampling, Presenting, Teaching, Project Management, AI, Cognitive Psychology, and decision-making
 
 </details>
 
@@ -69,7 +69,7 @@ R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, 
 - Postdoctoral Researcher
   - University of Helsinki (Finland) 2021 -
     - High Performance Cognition Laboratory
-    - Part-time project researcher and consulting laboratory infra development
+    - Project researcher and consulting laboratory infra development
     - [NordForsk GUESSED project](https://www.nordforsk.org/projects/grappling-uncertainty-environments-signaling-spurious-experiential-decisions-guessed)
 - Visiting Researcher
   - McGill University (Montreal, Quebec, Canada) 2013
@@ -87,7 +87,10 @@ R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, 
 <details>
   <summary>latest employments</summary>
   <br />
-  
+  - Senior Data Science Consultant (Audiodraft Ltd.) 2022 <br/>
+    - Main project: Consulting statistical methodology in product testing and customer satisfaction measures. Also leading the development of in-house data processing flows.
+  - Postdoctoral Researcher (University of Helsinki) 2021 <br/>
+    - Main project: improve decision-making and education in avalanche terrain mainly for back-country recreationalists. Our team developes a structure or decision making approach based on expert decision making in avalanche terrain and test the approach on scenarios among users and experts and validate this in the field. I'm also taking care of technical consulting for setting up and developing High Performance Cognition Group's laboratory.
   - Senior Data Scientist (Nightingale Health Ltd.) 2018 <br/>
     - Main projects: development of development environment and processes (DevOps), platform and process development for biomarker extraction (DS), development of risk models and predictions from biobank population data (DS)
     - My main role was leading and supporting scientific analyses for internal R&D and external dissemination. I was involved in development of data science environment and processes with DevOps team. However, my main contributions are in process and analysis development of the biomarker extraction product and product development for predicting risk scores in population models.
