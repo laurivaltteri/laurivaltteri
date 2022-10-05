@@ -87,6 +87,7 @@ R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, 
 <details>
   <summary>latest employments</summary>
   <br />
+  
   - Senior Data Science Consultant (Audiodraft Ltd.) 2022 <br/>
     - Main project: Consulting statistical methodology in product testing and customer satisfaction measures. Also leading the development of in-house data processing flows.
   - Postdoctoral Researcher (University of Helsinki) 2021 <br/>
