@@ -39,7 +39,7 @@ As an analytic personality, I believe one should always think of the big picture
   <summary>brief listing of relevant skills</summary>
 <br />
   
-R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, Data Fusion, Feature Extraction, Bayesian Analysis, Classification Techniques, Graph-theory, Signal Processing, Computational Neuroscience, Health Technology, IoT, Academic Communications, MATLAB, EEG, MEG, ECG, PPG, Actigraphy, EDA, exprience sampling, Presenting, Teaching, Project Management, AI, Cognitive Psychology, and decision-making
+R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, AWS, Data Fusion, Feature Extraction, Bayesian Analysis, Classification Techniques, Graph-theory, Signal Processing, Computational Neuroscience, Health Technology, IoT, Academic Communications, MATLAB, EEG, MEG, ECG, PPG, Actigraphy, EDA, experience sampling, Presenting, Teaching, Project Management, AI, Cognitive Psychology, and decision-making
 
 </details>
 
