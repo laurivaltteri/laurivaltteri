@@ -89,7 +89,7 @@ R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, 
   <br />
   
   - Senior Data Science Consultant (Audiodraft Ltd.) 2022 <br/>
-    - Main project: Consulting statistical methodology in product testing and customer satisfaction measures. Also leading the development of in-house data processing flows.
+    - Main project: Consulting statistical methodology in product testing and customer satisfaction measures. Also leading the development of in-house data processing flows and various other data engineering responsibilities.
   - Postdoctoral Researcher (University of Helsinki) 2021 <br/>
     - Main project: improve decision-making and education in avalanche terrain mainly for back-country recreationalists. Our team develops a structure or decision making approach based on expert decision making in avalanche terrain and test the approach on scenarios among users and experts and validate this in the field. I'm also taking care of technical consulting for setting up and developing High Performance Cognition Group's laboratory.
   - Senior Data Scientist (Nightingale Health Ltd.) 2018 <br/>
