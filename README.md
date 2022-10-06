@@ -135,7 +135,7 @@ R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, 
 
 ----------
 
-## 🏄 Extracurricular and Volunteer Positions
+## 🏄 Volunteer Positions
 <details>
   <summary>stuff from my freetime</summary>
   <br />
