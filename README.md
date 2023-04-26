@@ -159,7 +159,7 @@ R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, 
 <br />
 
 
-[website]: http://ec2-13-49-205-180.eu-north-1.compute.amazonaws.com/
+[website]: http://helsinki.fi/hipercog
 [instagram]: https://instagram.com/laur1valtteri
 [linkedin]: https://linkedin.com/in/laurivaltteri
 [researchgate]: https://researchgate.net/profile/Lauri_Ahonen
