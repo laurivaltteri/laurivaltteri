@@ -5,8 +5,8 @@
 
 # 👨‍🔬 Curriulum Vitae
 
-**PhD** (cognitive science) || **MSc** (technology) <br/>
-lauri@protonmail.com || +358 43 824 0302
+**PhD** (cognitive science) | **MSc** (technology) <br/>
+lauri@protonmail.com | +358 43 824 0302
 
 ----------
 
@@ -113,6 +113,7 @@ R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, 
   <summary>publications extracted from google scholar</summary>
 <br />
 
+- Executability and repeatability of a study setup using wearable and computerised technology to examine a wide range of physiological and cognitive functions of a patient outside hospital; K Müller, I Rautalin, L Ahonen, A Arola, A Henelius, H Jokinen, J Korpela, M Korja, N Martinez-Majander, A Mustonen, T Paajanen, S Pakarinen, K Pettersson, J Putaala, L Sokka, T Tikka, J Virkkala; PLOS One, submitted
 - Diminished brain responses to second-language words are linked with native-language literacy skills in dyslexia; S Ylinen, K Junttila, M Laasonen, P Iverson, L Ahonen, T Kujala; Neuropsychologia 122, 105-115; 2019
 - Biosignals reflect pair-dynamics in collaborative work: EDA and ECG study of pair-programming in a classroom environment; L Ahonen, BU Cowley, A Hellas, K Puolamäki; Scientific reports 8 (1), 1-16; 2018
 - A short review and primer on electroencephalography in human computer interaction applications; L Ahonen, B Cowley; arXiv preprint arXiv:1609.00183; 2016
