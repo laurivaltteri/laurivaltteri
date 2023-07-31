@@ -113,6 +113,7 @@ R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, 
   <summary>publications extracted from google scholar</summary>
 <br />
 
+- Executability and repeatability of a study setup using wearable and computerized technology to examine a wide range of physiological and cognitive functions of a patient outside hospital; K Muller, I Rautalin, L Ahonen, ...; Preprint; 2023
 - Diminished brain responses to second-language words are linked with native-language literacy skills in dyslexia; S Ylinen, K Junttila, M Laasonen, P Iverson, L Ahonen, T Kujala; Neuropsychologia 122, 105-115; 2019
 - Biosignals reflect pair-dynamics in collaborative work: EDA and ECG study of pair-programming in a classroom environment; L Ahonen, BU Cowley, A Hellas, K Puolamäki; Scientific reports 8 (1), 3138; 2018
 - The psychophysiology primer: a guide to methods and a broad review with a focus on human–computer interaction; B Cowley, M Filetti, K Lukander, J Torniainen, A Henelius, L Ahonen, ...; Foundations and Trends® in Human–Computer Interaction 9 (3-4), 151-308; 2016
