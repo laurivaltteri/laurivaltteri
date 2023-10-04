@@ -39,16 +39,13 @@ jobs:
     - name: Fetch stats and update README.md
       run: |
         Rscript scrape-google-citations.R
-    - name: Commit and push if needed
-      run: |-
-        git diff
-        git config --global user.email "readme-bot@example.com"
-        git config --global user.name "README-bot"
-        git add -A
-        git commit -m "Updated README.md automatically" || exit 0
-        git push
+    - name: Commit files # Commit changes
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git add .
+        git diff-index --quiet HEAD || (git commit -m "update data" && git push)
         
-        # documentation.
 #
 # See https://github.com/r-lib/actions/tree/master/examples#readme for
 # additional example workflows available for the R community.
