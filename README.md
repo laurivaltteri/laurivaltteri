@@ -1,7 +1,7 @@
 <!--
 **laurivaltteri/laurivaltteri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![example workflow name](https://github.com/laurivaltteri/laurivaltteri/workflows/CI%20checking%20Google/badge.svg)
+[![CI scrape Google scholar articles](https://github.com/laurivaltteri/laurivaltteri/actions/workflows/build.yml/badge.svg)](https://github.com/laurivaltteri/laurivaltteri/actions/workflows/build.yml)
 
 # 👨‍🔬 Curriulum Vitae
 
