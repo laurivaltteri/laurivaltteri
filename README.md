@@ -12,15 +12,17 @@ lauri@protonmail.com | +358 43 824 0302
 
 ## ♈️ Biography
 
-My strengths are neuroscience twist in my analytics expertise and experience in talented teams in data science. I’m a digital professional with profound understanding on novel data analytics and data tools. Furthermore, the engineering-psychology foundation ensures understanding potential and caveats of statistical and cognitive biases.
+My unique combination of neuroscience expertise and analytics skill set positions me at the forefront of the evolving field of decision science.  This combination ensures a deep understanding of novel data analytics and tools, with a particular focus on how cognitive and statistical biases can influence decision-making processes.
 
-My work history in academia has provided a wide outlook over digital health data with over ten years of experience in personalized health. The experience in science has also yielded excellent capabilities in international collaboration, strong proficiency in independent work, and organising and managing projects. Working in multidisciplinary teams has flourished skills in resolving conflicts and resulted a solution-oriented mindset. Despite the independent attitude, research projects have also thrived behaviour to actively ask for guidance.
+As a data professional, I possess a deep comprehension of the latest in data analytics and tools, reflecting the holistic, decision-centric focus that characterizes decision science. My background in engineering and psychology enriches my approach, allowing me to evaluate and apply various methodologies effectively.
 
-I've been involved in multiple applied research and basic research projects with physiological measurements, please see the *Skills* section for modalities. Projects' topics have involved sleep research, circadian rhythms, psychophysics, models of physiological systems, executive functions, situational awareness and multimodal perception, burn-out, and autonomic nervous system responses to emotional-cognitive factors such stress.
+In academia, my focus on digital health and risk management over the past decade has broadened my perspective. This experience has not only sharpened my capabilities in international collaboration and independent project management but also in driving projects that require a multifaceted understanding of data and human behaviour.
 
-My experience in cutting edge R&D teams has provided an extensive practical competence of current data tools, methods, and technologies. Moreover, my endeavour in scale-up business environment has provided an excellent position to gain experience in agile methods and to participate in product development and implementation of modern architectures. Working in a small company, constantly redefining goals has enhanced perseverant but yet resilient mindset.
+I have been involved in a variety of research projects, focusing on topics like sleep research, circadian rhythms, psychophysics, executive functions, situational awareness, multimodal perception, burn-out, safety, and risk avoidance. These projects, detailed in the Skills section, reflect my ability to apply analytical techniques in varied contexts, a key aspect of decision science.
 
-As an analytic personality, I believe one should always think of the big picture. It is important to be able to identify what is relevant and to focus on that. And I can't emphasize enough the relevance of utilizing state of art tools.
+My experience in cutting-edge R&D teams has provided me with extensive practical knowledge of current data tools, methods, and technologies. My tenure in fast-paced business environments has honed my agility and adaptability, skills critical for successful decision-making in the ever-evolving data landscape. Working in small, dynamic companies has further cultivated my resilience and ability to thrive amidst constant change.
+
+As an analytical thinker, I value the big-picture perspective that is central to decision science. Identifying what is relevant and focusing on those aspects is crucial. The importance of utilizing state-of-the-art tools in this context cannot be overstated, as they enable the holistic approach to decision-making that is at the heart of decision science.
 
 ----------
 
