@@ -6,7 +6,7 @@
 # 👨‍🔬 Curriulum Vitae
 
 **PhD** (cognitive science) | **MSc** (technology) <br/>
-lauri@protonmail.com | +358 43 824 0302
+pratulum@protonmail.ch | +358 50 327 5154
 
 ----------
 
