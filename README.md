@@ -29,7 +29,7 @@ As an analytical thinker, I value the big-picture perspective that is central to
 ## 📱 Online Profiles
 
 [<img align="left" width="38px" src="https://cdn.jsdelivr.net/npm/@glyphs/brands@0.1.9/color/linkedin.svg" />][linkedin]
-[<img align="left" width="38px" src="https://cdn.jsdelivr.net/npm/@glyphs/brands@0.1.9/color/instagram.svg" />][instagram]
+
 [<img align="left" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" />][researchgate]
 [<img align="left" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Applications-internet.svg" />][website]
 <br />  
