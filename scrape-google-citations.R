@@ -1,7 +1,7 @@
 # R parser for google scholar
 library(rvest)
 
-gscholar_link <- "https://scholar.google.com/citations?hl=en&user=563lZEwAAAAJ&view_op=list_works&alert_preview_top_rm=2&sortby=pubdate"
+gscholar_link <- "https://scholar.google.com/citations?hl=en&user=05N5-HMAAAAJ&view_op=list_works&alert_preview_top_rm=2&sortby=pubdate"
 readme_loc <- "README.md"
 
 citations <- read_html(gscholar_link) %>%
