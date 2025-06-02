@@ -115,6 +115,8 @@ R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, 
   <summary>publications extracted from google scholar</summary>
 <br />
 
+- Death of backcountry winter-sports practitioners in avalanches–A systematic review and meta-analysis of proportion of causes of avalanche death, G Rong, L Ahonen, G Pfuhl, B Cowley; PLOS Global Public Health 5(5), e0004551; 2025
+- Searching for avalanche clues—An exploratory comparison of professional and recreational use of snow, terrain, and group factors; L Ahonen, M Landrø, G Rong, G Pfuhl, A Mannberg, A Hetland, B Cowley,; Journal of Outdoor Recreation and Tourism (49), 100841; 2025
 - Diminished brain responses to second-language words are linked with native-language literacy skills in dyslexia; S Ylinen, K Junttila, M Laasonen, P Iverson, L Ahonen, T Kujala; Neuropsychologia 122, 105-115; 2019
 - Biosignals reflect pair-dynamics in collaborative work: EDA and ECG study of pair-programming in a classroom environment; L Ahonen, BU Cowley, A Hellas, K Puolamäki; Scientific reports 8 (1), 3138; 2018
 - The psychophysiology primer: a guide to methods and a broad review with a focus on human–computer interaction; B Cowley, M Filetti, K Lukander, J Torniainen, A Henelius, L Ahonen, ...; Foundations and Trends® in Human–Computer Interaction 9 (3-4), 151-308; 2016
@@ -122,7 +124,7 @@ R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, 
 - Using regression makes extraction of shared variation in multiple datasets easy; J Korpela, A Henelius, L Ahonen, A Klami, K Puolamäki; Data Mining and Knowledge Discovery 30, 1112-1133; 2016
 - A short review and primer on event-related potentials in human computer interaction applications; M Huotilainen, B Cowley, L Ahonen; arXiv preprint arXiv:1608.08353; 2016
 - Cognitive collaboration found in cardiac physiology: Study in classroom environment; L Ahonen, B Cowley, J Torniainen, A Ukkonen, A Vihavainen, ...; PloS one 11 (7), e0159178; 2016
-- Within-and between-session replicability of cognitive brain processes: An MEG study with an N-back task; L Ahonen, M Huotilainen, E Brattico; Physiology &amp; behavior 158, 43-53; 2016
+- Within-and between-session replicability of cognitive brain processes: An MEG study with an N-back task; L Ahonen, M Huotilainen, E Brattico; Physiology & behavior 158, 43-53; 2016
 - Job burnout is associated with dysfunctions in brain mechanisms of voluntary and involuntary attention; L Sokka, M Leinikka, J Korpela, A Henelius, L Ahonen, C Alain, K Alho, ...; Biological Psychology 117, 56-66; 2016
 - Comparing Auditory Stimuli for Sleep Enhancement: Mimicking a Sleeping Situation; M Leminen, L Ahonen, M Gröhn, M Huotilainen, T Paunio, J Virkkala; Georgia Institute of Technology; 2014
 - DECREASE OF PROCESSING SPEED DUE TO SWITCHING BETWEEN TASKS: MEG EVIDENCE; M Huotilainen, L Ahonen; PSYCHOPHYSIOLOGY 50, S85-S85; 2013
@@ -143,7 +145,7 @@ R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, 
   <br />
   
   - Slackline Finland
-    - Member of Board
+    - ex-Member of Board
   - Finnish Alpine Club
     - [Alppikerho.fi](http://alppikerho.fi)
     - ex-Member of Board
@@ -163,4 +165,4 @@ R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, 
 [website]: https://uit.no/research/care
 [instagram]: https://instagram.com/laur1valtteri
 [linkedin]: https://linkedin.com/in/laurivaltteri
-[researchgate]: https://researchgate.net/profile/Lauri_Ahonen
+[researchgate]: https://www.researchgate.net/profile/Lauri-Ahonen/research
