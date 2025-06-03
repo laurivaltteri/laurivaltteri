@@ -6,11 +6,14 @@ readme_loc <- "README.md"
 
 citations <- read_html(gscholar_link) |>
   html_nodes(xpath=sprintf(".//tr/td[%d]", 1)) |> 
-  .[c(-1,-2,-3)] |>
+  (\(x) x[c(-1, -2, -3)])() |>
   purrr::map_chr(~paste0(html_nodes(., xpath=".//text()"), collapse="; ")) |>
   stringr::str_replace("(.*)(, )(\\d\\d\\d\\d$)", "\\1\\3") |>
-  {paste("-", .)} |>
-  {c("  <summary>publications extracted from google scholar</summary>", "<br />", "", ., "", "</details>")}
+  (\(x) paste("-", x))() |>
+  (\(x) c(
+    "  <summary>publications extracted from google scholar</summary>",
+    "<br />", "", x, "", "</details>"
+  ))()
 
 
 readme_txt <- readLines(readme_loc)
