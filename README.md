@@ -115,23 +115,26 @@ R, Python, UNIX, Tidymodels, Tensorflow, Tableau, SQL, git, Docker, Kubernetes, 
   <summary>publications extracted from google scholar</summary>
 <br />
 
-- Death of backcountry winter-sports practitioners in avalanches–A systematic review and meta-analysis of proportion of causes of avalanche death, G Rong, L Ahonen, G Pfuhl, B Cowley; PLOS Global Public Health 5(5), e0004551; 2025
-- Searching for avalanche clues—An exploratory comparison of professional and recreational use of snow, terrain, and group factors; L Ahonen, M Landrø, G Rong, G Pfuhl, A Mannberg, A Hetland, B Cowley,; Journal of Outdoor Recreation and Tourism (49), 100841; 2025
+- Death of backcountry winter-sports practitioners in avalanches–A systematic review and meta-analysis of proportion of causes of avalanche death; G Rong, L Ahonen, G Pfuhl, BU Cowley; PLOS Global Public Health 5 (5), e0004551; 2025
+- Searching for avalanche clues—An exploratory comparison of professional and recreational use of snow, terrain, and group factors; L Ahonen, M Landrø, G Rong, G Pfuhl, A Mannberg, A Hetland, ...; Journal of Outdoor Recreation and Tourism 49, 100841; 2025
+- Combining Avalanche Nowcasts with GPS Tracks and ‘in situ’Participant Reports to Understand Decision-making in Avalanche Terrain; L Ahonen, A Mannberg, A Hetland, M Stefan, G Pfuhl, G Rong, M Landrø, ...; Proceedings of the 2024 international snow science workshop, Tromsø, 1503-1510; 2024
+- HOW ACCURATE AND BIASED IS SLOPE PERCEPTION OF SNOW-COVERED MOUNTAINS?; G Pfuhl, K Ekman, G Rong, LV Ahonen, BU Cowley, A Hetland, ...; International Snow Science Workshop 2024; 2024
+- Executability and repeatability of a study setup using wearable and computerized technology to examine a wide range of physiological and cognitive functions of a patient …; K Müller, I Rautalin, L Ahonen, A Arola, A Henelius, H Jokinen, J Korpela, ...; medRxiv, 2023.01. 30.23285187; 2023
+- Size-dependent influence of NOx on the growth rates of organic aerosol particles, Sci. Adv., 6, eaay4945; C Yan, W Nie, AL Vogel, L Dada, K Lehtipalo, D Stolzenburg, R Wagner, ...
 - Diminished brain responses to second-language words are linked with native-language literacy skills in dyslexia; S Ylinen, K Junttila, M Laasonen, P Iverson, L Ahonen, T Kujala; Neuropsychologia 122, 105-115; 2019
+- Quantifying cognition: Applications for ubiquitous data; L Ahonen; Helsingin yliopisto; 2018
+- 0950 Simulated Knowledge Work Decreases Alertness in Job-burnout; K Pettersson, L Ahonen, L Sokka, K Müller, S Pakarinen; Sleep 41, A352; 2018
 - Biosignals reflect pair-dynamics in collaborative work: EDA and ECG study of pair-programming in a classroom environment; L Ahonen, BU Cowley, A Hellas, K Puolamäki; Scientific reports 8 (1), 3138; 2018
+- Influence of atmospheric conditions on pure biogenic nucleation in the CLOUD chamber; L Dada, D Stolzenburg, L Ahonen, F Bianchi, L Fischer, H Gordon, ...
 - The psychophysiology primer: a guide to methods and a broad review with a focus on human–computer interaction; B Cowley, M Filetti, K Lukander, J Torniainen, A Henelius, L Ahonen, ...; Foundations and Trends® in Human–Computer Interaction 9 (3-4), 151-308; 2016
-- A short review and primer on electroencephalography in human computer interaction applications; L Ahonen, B Cowley; arXiv preprint arXiv:1609.00183; 2016
 - Using regression makes extraction of shared variation in multiple datasets easy; J Korpela, A Henelius, L Ahonen, A Klami, K Puolamäki; Data Mining and Knowledge Discovery 30, 1112-1133; 2016
 - A short review and primer on event-related potentials in human computer interaction applications; M Huotilainen, B Cowley, L Ahonen; arXiv preprint arXiv:1608.08353; 2016
 - Cognitive collaboration found in cardiac physiology: Study in classroom environment; L Ahonen, B Cowley, J Torniainen, A Ukkonen, A Vihavainen, ...; PloS one 11 (7), e0159178; 2016
-- Within-and between-session replicability of cognitive brain processes: An MEG study with an N-back task; L Ahonen, M Huotilainen, E Brattico; Physiology & behavior 158, 43-53; 2016
+- S1: Analysis of Electrodermal Activity Recordings in Pair Programming from 2 Dyads; L Ahonen, B Cowley, J Torniainen, A Ukkonen, A Vihavainen, ...; PLoS One; 2016
 - Job burnout is associated with dysfunctions in brain mechanisms of voluntary and involuntary attention; L Sokka, M Leinikka, J Korpela, A Henelius, L Ahonen, C Alain, K Alho, ...; Biological Psychology 117, 56-66; 2016
 - Comparing Auditory Stimuli for Sleep Enhancement: Mimicking a Sleeping Situation; M Leminen, L Ahonen, M Gröhn, M Huotilainen, T Paunio, J Virkkala; Georgia Institute of Technology; 2014
 - DECREASE OF PROCESSING SPEED DUE TO SWITCHING BETWEEN TASKS: MEG EVIDENCE; M Huotilainen, L Ahonen; PSYCHOPHYSIOLOGY 50, S85-S85; 2013
 - Designing auditory stimulus for sleep enhancement; L Ahonen, M Gröhn, M Huotilainen, S Jagadeesan, T Paunio, J Virkkala; Proc. of the 19th Int. Conf. of Auditory Display (ICAD 2013); 2013
-- Effects of pleasant and unpleasant auditory mood induction on the performance and in brain activity in cognitive tasks; M Gröhn, L Ahonen, M Huotilainen; Proceedings of the 18th International Conference on Auditory Display …; 2012
-- Some Effects of Continous Tempo and Pitch Transformations in Perceived Pleasantness of Listening to a Musical Sound File; M Grohn, L Ahonen, M Huotilainen; International Community for Auditory Display; 2011
-- Cueing spatial visual attention by symbolic and directional auditory stimuli; R Nasanen, L Ahonen, S Jagadeesan, K Muller; PERCEPTION 37, 98-98; 2008
 
 </details>
 
