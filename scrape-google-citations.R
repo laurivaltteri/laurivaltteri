@@ -6,7 +6,7 @@ readme_loc <- "README.md"
 
 # Fetching Google Scholar data with error handling
 citations <- tryCatch({
-  read_html(gscholar_link, options = "RECOVER", user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36") |>
+  read_html(gscholar_link, options = "RECOVER", user_agent = "Mozilla/5.0") |>
     html_nodes(xpath = sprintf(".//tr/td[%d]", 1)) |> 
     (\(x) x[c(-1, -2, -3)])() |>
     purrr::map_chr(~paste0(html_nodes(., xpath=".//text()"), collapse="; ")) |>
